@@ -1,0 +1,274 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+@5 .placement_layer
+
+#
+#Component attribute text strings
+#
+&0 top_layer
+
+# CMP 0
+CMP 3 7.10137264 7.45000034 270 N U1 DA14531MOD ;0=1,1=3.0500,5=0
+PRP Assembly_Instructions ''
+PRP Detailed_Description 'DA14531MOD, Bluetooth Low Energy 5.1 Module, 128 kB Flash, 144kB ROM, 48kB RAM, 16-SMD Module, SM, RoHS'
+PRP Internal_Part_# ''
+PRP Manufacturer_1 'Renesas Electronics'
+PRP Manufacturer_Part_Number_1 'DA14531MOD-00F01002'
+PRP Package '16-SMD Module'
+PRP Part 'DA14531MOD'
+PRP Revision '1'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '1695-DA14531MOD-00F01002CT-ND'
+PRP Supplier_Part_Number_2 '724-DA14531MODF01002'
+PRP Type 'BLE 5.1 Module'
+TOP 0 3.22634864 1.34998714 270 N 8 20 J1
+TOP 1 4.72637104 1.69999914 270 N 8 17 J2
+TOP 2 6.22639344 1.69999914 270 N 8 19 J3
+TOP 3 7.72636504 1.69999914 270 N 8 18 J4
+TOP 4 9.22638744 1.69999914 270 N 0 13 J5
+TOP 5 10.97639664 3.69999514 270 N 8 11 J6
+TOP 6 10.97639664 5.20001754 270 N 9 16 J7
+TOP 7 10.97639664 6.69998914 270 N 0 12 J8
+TOP 8 10.97639664 8.20001154 270 N 3 2 J9
+TOP 9 10.97639664 9.69998314 270 N 5 3 J10
+TOP 10 10.97639664 11.20000554 270 N 8 10 J11
+TOP 11 9.22638744 13.20000154 270 N 0 15 J12
+TOP 12 7.72636504 13.20000154 270 N 0 14 J13
+TOP 13 6.22639344 13.20000154 270 N 0 9 J14
+TOP 14 4.72637104 13.20000154 270 N 0 7 J15
+TOP 15 3.22634864 13.20000154 270 N 0 8 J16
+#
+# CMP 1
+CMP 7 18.7706 9.8044 0 N R1 0R ;0=1,1=0.5500,5=0
+PRP Alternate_Part_# ''
+PRP Alternate_Part_Supplier ''
+PRP Assembly_Instructions ''
+PRP Current_Rating ''
+PRP Detailed_Description 'Resistor, 0 ohms, 1/8W, 1%, 100 ppm, SM, 75 WV, 100 OV, Thick Film, 0603, RoHS'
+PRP Internal_Part_# ''
+PRP Manufacturer 'KOA Speer'
+PRP Manufacturer_s_Part_# 'RK73Z1JTTD'
+PRP Package '0603'
+PRP Part '0R'
+PRP Power_Rating '1/8W'
+PRP Resistance '0'
+PRP Revision '1'
+PRP Supplier_1 'Arrow Electronics'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_3 'Mouser'
+PRP Supplier_Part_Number_1 'RK73Z1JTTD'
+PRP Supplier_Part_Number_2 '2019-RK73Z1JTTDCT-ND'
+PRP Supplier_Part_Number_3 '660-RK73Z1JTTD'
+PRP Tolerance '1%'
+PRP Type 'Resistor'
+PRP Voltage_Rating '75V'
+TOP 0 17.9955952 9.8044 270 N 9 11 1
+TOP 1 19.5456048 9.8044 270 N 7 0 2
+#
+# CMP 2
+CMP 6 18.01165816 7.1882 0 N R5 Resistor_10K__+/-1_%_0402_63_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology ''
+PRP Pins '2'
+PRP Power '63mW'
+PRP RoHS_Compliant ''
+PRP Tolerance '1%'
+PRP Value '10k'
+PRP Voltage_Rating ''
+TOP 0 17.5616616 7.1882 270 N 9 14 1
+TOP 1 18.4616344 7.1882 270 N 5 1 2
+#
+# CMP 3
+CMP 6 18.923 5.7912 0 N R4 Resistor_10K__+/-1_%_0402_63_mW ;0=1,1=0.4000,5=0
+PRP Case/Package '0402'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology ''
+PRP Pins '2'
+PRP Power '63mW'
+PRP RoHS_Compliant ''
+PRP Tolerance '1%'
+PRP Value '10k'
+PRP Voltage_Rating ''
+TOP 0 18.4730136 5.7912 270 N 9 13 1
+TOP 1 19.3729864 5.7912 270 N 3 3 2
+#
+# CMP 4
+CMP 4 13.7922 5.9436 0 N U2 TMP102AIDRLR ;0=1,1=0.0000,5=0
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/TMP102AIDRLR/Texas+Instruments/view-part/?ref=eda'
+PRP MF 'Texas Instruments'
+PRP MP 'TMP102AIDRLR'
+PRP Package 'SOT-5X3-6 Texas Instruments'
+PRP Price 'None'
+PRP Purchase-URL 'https://pricing.snapeda.com/search/part/TMP102AIDRLR/?ref=eda'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/TMP102AIDRLR/Texas+Instruments/view-part/?ref=snap'
+PRP Value ''
+TOP 0 13.0521964 6.4436244 0 N 4 0 1
+TOP 1 13.0521964 5.9436 0 N 8 15 2
+TOP 2 13.0521964 5.4436264 0 N 1 0 3
+TOP 3 14.5322036 5.4436264 0 N 8 16 4
+TOP 4 14.5322036 5.9436 0 N 9 12 5
+TOP 5 14.5322036 6.4436244 0 N 2 1 6
+#
+# CMP 5
+CMP 7 13.4112 3.4036 0 N R6 649R ;0=1,1=0.5500,5=0
+PRP Alternate_Part_# ''
+PRP Alternate_Part_Supplier ''
+PRP Assembly_Instructions ''
+PRP Current_Rating ''
+PRP Detailed_Description 'Resistor, 649 ohms, 1/8W, 1%, 100 ppm, SM, 75 WV, 100 OV, Thick Film, 0603, RoHS'
+PRP Internal_Part_# ''
+PRP Manufacturer 'KOA Speer'
+PRP Manufacturer_s_Part_# 'RK73H1JTTD6490F'
+PRP Package '0603'
+PRP Part '649R'
+PRP Power_Rating '1/8W'
+PRP Resistance '649'
+PRP Revision '1'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_3 'Arrow Electronics'
+PRP Supplier_Part_Number_1 '2019-RK73H1JTTD6490FCT-ND'
+PRP Supplier_Part_Number_2 '660-RK73H1JTTD6490F'
+PRP Supplier_Part_Number_3 'RK73H1JTTD6490F'
+PRP Tolerance '1%'
+PRP Type 'Resistor'
+PRP Voltage_Rating '75V'
+TOP 0 12.6361952 3.4036 270 N 1 1 1
+TOP 1 14.1862048 3.4036 270 N 6 1 2
+#
+# CMP 6
+CMP 7 15.2146 8.1534 0 N R3 0R ;0=1,1=0.5500,5=0
+PRP Alternate_Part_# ''
+PRP Alternate_Part_Supplier ''
+PRP Assembly_Instructions ''
+PRP Current_Rating ''
+PRP Detailed_Description 'Resistor, 0 ohms, 1/8W, 1%, 100 ppm, SM, 75 WV, 100 OV, Thick Film, 0603, RoHS'
+PRP Internal_Part_# ''
+PRP Manufacturer 'KOA Speer'
+PRP Manufacturer_s_Part_# 'RK73Z1JTTD'
+PRP Package '0603'
+PRP Part '0R'
+PRP Power_Rating '1/8W'
+PRP Resistance '0'
+PRP Revision '1'
+PRP Supplier_1 'Arrow Electronics'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_3 'Mouser'
+PRP Supplier_Part_Number_1 'RK73Z1JTTD'
+PRP Supplier_Part_Number_2 '2019-RK73Z1JTTDCT-ND'
+PRP Supplier_Part_Number_3 '660-RK73Z1JTTD'
+PRP Tolerance '1%'
+PRP Type 'Resistor'
+PRP Voltage_Rating '75V'
+TOP 0 14.4395952 8.1534 270 N 3 1 1
+TOP 1 15.9896048 8.1534 270 N 2 0 2
+#
+# CMP 7
+CMP 7 22.4536 4.9022 0 N R2 0R ;0=1,1=0.5500,5=0
+PRP Alternate_Part_# ''
+PRP Alternate_Part_Supplier ''
+PRP Assembly_Instructions ''
+PRP Current_Rating ''
+PRP Detailed_Description 'Resistor, 0 ohms, 1/8W, 1%, 100 ppm, SM, 75 WV, 100 OV, Thick Film, 0603, RoHS'
+PRP Internal_Part_# ''
+PRP Manufacturer 'KOA Speer'
+PRP Manufacturer_s_Part_# 'RK73Z1JTTD'
+PRP Package '0603'
+PRP Part '0R'
+PRP Power_Rating '1/8W'
+PRP Resistance '0'
+PRP Revision '1'
+PRP Supplier_1 'Arrow Electronics'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_3 'Mouser'
+PRP Supplier_Part_Number_1 'RK73Z1JTTD'
+PRP Supplier_Part_Number_2 '2019-RK73Z1JTTDCT-ND'
+PRP Supplier_Part_Number_3 '660-RK73Z1JTTD'
+PRP Tolerance '1%'
+PRP Type 'Resistor'
+PRP Voltage_Rating '75V'
+TOP 0 21.6785952 4.9022 270 N 5 2 1
+TOP 1 23.2286048 4.9022 270 N 4 1 2
+#
+# CMP 8
+CMP 2 14.1224 10.033 0 N D1 LED,_Red ;0=1,1=0.8000,5=0
+PRP Alternate_Part_# ''
+PRP Alternate_Part_Supplier ''
+PRP Assembly_Instructions ''
+PRP Detailed_Description 'LED, Red, Clear, 0805, SM, RoHS'
+PRP Internal_Part_# ''
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_s_Part_# '150080RS75000'
+PRP Package '0805'
+PRP Part 'LED, Red'
+PRP Revision '1'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '732-4984-1-ND'
+PRP Supplier_Part_Number_2 '710-150080RS75000'
+PRP Type 'LED'
+TOP 0 15.0724108 10.033 270 N 6 0 A
+TOP 1 13.1723892 10.033 270 N 9 17 K
+#
+# CMP 9
+CMP 0 16.891 3.9624 0 N C2 0.1uF ;0=1,1=0.9000,5=0
+PRP Alternate_Part_# ''
+PRP Alternate_Part_Supplier ''
+PRP Assembly_Instructions ''
+PRP Current_Rating ''
+PRP Detailed_Description 'Capacitor, 0.1uF, 50V, SM 0603, Multilayer Ceramic,, X7R, RoHS'
+PRP ESR ''
+PRP Internal_Part_# ''
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_s_Part_# 'CC0603KRX7R9BB104'
+PRP Package '0603'
+PRP Part '0.1uF'
+PRP Revision '1'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Future Electronics'
+PRP Supplier_3 'Mouser'
+PRP Supplier_Part_Number_1 '311-1344-1-ND'
+PRP Supplier_Part_Number_2 '9017302'
+PRP Supplier_Part_Number_3 '603-CC603KRX7R9BB104'
+PRP Tolerance '10%'
+PRP Type 'Capacitor'
+PRP Voltage_Rating '50V'
+TOP 0 16.1659824 3.9624 270 N 9 10 1
+TOP 1 17.6160176 3.9624 270 N 8 14 2
+#
+# CMP 10
+CMP 1 23.7744 12.7508 0 N C1 10uF ;0=1,1=0.9500,5=0
+PRP Alternate_Part_# ''
+PRP Alternate_Part_Supplier ''
+PRP Assembly_Instructions ''
+PRP Current_Rating ''
+PRP Detailed_Description 'Capacitor, 10uF, 10V, SM 0603, Multilayer Ceramic, X5R, RoHS'
+PRP ESR ''
+PRP Internal_Part_# ''
+PRP Manufacturer 'Murata'
+PRP Manufacturer_s_Part_# 'GRM188R61A106KE69D'
+PRP Package '0603'
+PRP Part '10uF'
+PRP Revision '1'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '490-10474-1-ND'
+PRP Supplier_Part_Number_2 '81-GRM188R61A106KE9D'
+PRP Tolerance '10%'
+PRP Type 'Capacitor'
+PRP Voltage_Rating '10V'
+TOP 0 23.0493824 12.7508 270 N 9 15 1
+TOP 1 24.4994176 12.7508 270 N 8 13 2
+#

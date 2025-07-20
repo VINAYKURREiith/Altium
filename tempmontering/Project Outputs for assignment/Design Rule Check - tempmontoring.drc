@@ -1,0 +1,22 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\VINAY\Desktop\Altium\assignment\tempmontoring.PcbDoc
+Date     : 08-05-2025
+Time     : 18:40:01
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=50%) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+PCB Health Issues : 0
+Time Elapsed        : 00:00:00

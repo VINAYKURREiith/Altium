@@ -1,0 +1,35 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+@5 .placement_layer
+
+#
+#Component attribute text strings
+#
+&0 bottom_layer
+
+# CMP 0
+CMP 5 15.64098218 7.7724 180 N BT1 S8411-45R,_CR1220_Coin_Cell ;0=1,1=4.2500,5=0
+PRP Assembly_Instructions ''
+PRP Detailed_Description 'Battery Holder, 12 mm Coin Cell, CR1220, SM, RoHS'
+PRP Internal_Part_# ''
+PRP Manufacturer 'Harwin'
+PRP Manufacturer_s_Part_# 'S8411-45R'
+PRP Part 'S8411-45R, CR1220 Coin Cell'
+PRP Revision '1'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '952-1745-1-ND'
+PRP Supplier_Part_Number_2 '855-S8411-45R'
+PRP Type 'Battery Holder'
+TOP 0 23.60489818 7.83474176 180 N 8 12 1
+TOP 1 7.20488018 7.83474176 180 N 7 1 2
+TOP 2 19.35486858 7.83474176 90 N 0 11 empty-1
+TOP 3 11.90489618 7.83474176 90 N 0 10 empty-2
+#
