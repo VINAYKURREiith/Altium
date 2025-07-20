@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=SW2 Old Footprint=416131160801 New Footprint=416131160801
+Change Component Footprint: Designator=J1 Old Footprint=PMOD-CONN2X6-RA-TH-HDR New Footprint=PMOD-CONN2X6-RA-TH-HDR
+Change Component Footprint: Designator=R7 Old Footprint=RESC0603-01 New Footprint=RESC0603-01
+Change Component Footprint: Designator=U2 Old Footprint=SOT65P210X110-5N New Footprint=SOT65P210X110-5N
+Change Component Footprint: Designator=U3 Old Footprint=SOT65P210X110-5N New Footprint=SOT65P210X110-5N
